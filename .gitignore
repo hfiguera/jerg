@@ -7,4 +7,6 @@ ebin
 doc
 .settings
 jerg
+_build
+rebar.lock
 
